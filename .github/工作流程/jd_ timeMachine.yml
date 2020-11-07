@@ -4,7 +4,7 @@ name: 京东时光机
 on:
   workflow_dispatch:
   schedule:
-     - cron: '15 */4 * * *'
+     - cron: '16 */4 * * *'
   watch:
     types: started
 jobs:
